@@ -1,5 +1,7 @@
-import Button from '../../components/Button'
 import React from 'react';
+
+import Button from '../../components/Button'
+
 import styles from './Principal.module.scss';
 
 function Principal() {
